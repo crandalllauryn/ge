@@ -1,1 +1,1 @@
-# ge
+# This repo has two different files. One for lean flow scatter charts. The other for lean flow bar charts. The logic should remain pretty similar throughout other kanban boards. You will need to change and customize different feature, status, and artifact names based on what your team is looking for. I have comments in the code that can help guide you through this.
